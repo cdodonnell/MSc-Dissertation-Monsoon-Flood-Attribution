@@ -1,0 +1,4 @@
+outputs/*.nc
+data/climate/
+data/processed/
+data/raw/mpi_tas_patch/

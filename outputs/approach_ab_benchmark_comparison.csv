@@ -1,0 +1,5 @@
+region,n_cwc_years,CWC_spearman_A,CWC_spearman_B,CWC_favours,IMD_spearman_A,IMD_spearman_B,IMD_favours
+Central_India,20,0.472,0.134,A,0.807,0.692,A
+Indo_Gangetic_Plain,40,0.203,-0.134,A,0.452,0.719,B
+Northeast,40,0.089,0.183,B,0.548,0.617,B
+Western_Ghats,40,0.445,0.278,A,0.702,0.859,B

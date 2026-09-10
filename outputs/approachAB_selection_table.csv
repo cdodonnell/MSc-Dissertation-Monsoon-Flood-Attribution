@@ -1,0 +1,6 @@
+Region,N,Spearman ρ (A),p-value (A),Spearman ρ (B),p-value (B)
+Central India,20,0.495,0.027,0.137,0.565
+Indo Gangetic Plain,40,0.0,0.998,-0.224,0.164
+Northeast,40,0.26,0.105,0.28,0.08
+Western Ghats,40,0.454,0.003,0.294,0.066
+Mean (all regions),-,0.302,-,0.122,-

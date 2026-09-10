@@ -1,0 +1,85 @@
+region,year,regional_total_cr,n_reporting,n_states_in_region,pct_states_reporting,data_quality_flag
+Western_Ghats,2000,48.45,4,4,100.0,
+Western_Ghats,2001,97.5,4,4,100.0,
+Western_Ghats,2002,61.58,4,4,100.0,
+Western_Ghats,2003,114.49,4,4,100.0,
+Western_Ghats,2004,0.0,4,4,100.0,
+Western_Ghats,2005,1896.53,4,4,100.0,
+Western_Ghats,2006,3272.62,4,4,100.0,
+Western_Ghats,2007,5475.5,4,4,100.0,
+Western_Ghats,2008,656.76,4,4,100.0,
+Western_Ghats,2009,18582.0,4,4,100.0,
+Western_Ghats,2010,1837.98,4,4,100.0,
+Western_Ghats,2011,142.22,4,4,100.0,
+Western_Ghats,2012,159.57,4,4,100.0,
+Western_Ghats,2013,2388.6099999999997,4,4,100.0,
+Western_Ghats,2014,957.0899999999999,4,4,100.0,
+Western_Ghats,2015,870.5,4,4,100.0,
+Western_Ghats,2016,2055.49,4,4,100.0,
+Western_Ghats,2017,0.0,4,4,100.0,
+Western_Ghats,2018,7941.54,3,4,75.0,Only 3/4 states reporting
+Western_Ghats,2019,0.0,1,4,25.0,Only 1/4 states reporting
+Western_Ghats,2020,0.0,2,4,50.0,Only 2/4 states reporting
+Central_India,2000,0.05,2,4,50.0,Only 2/4 states reporting; Jharkhand data embedded in Bihar (IGP) pre-2001; Central_India total likely understated
+Central_India,2001,1674.3700000000001,4,4,100.0,
+Central_India,2002,3.11,4,4,100.0,
+Central_India,2003,1613.3200000000002,4,4,100.0,
+Central_India,2004,84.52000000000001,4,4,100.0,
+Central_India,2005,684.18,4,4,100.0,
+Central_India,2006,2160.98,4,4,100.0,
+Central_India,2007,1297.44,4,4,100.0,
+Central_India,2008,3215.58,4,4,100.0,
+Central_India,2009,483.02,4,4,100.0,
+Central_India,2010,327.63,4,4,100.0,
+Central_India,2011,2945.44,4,4,100.0,
+Central_India,2012,288.71,4,4,100.0,
+Central_India,2013,39.55,4,4,100.0,
+Central_India,2014,464.06,4,4,100.0,
+Central_India,2015,69.01,4,4,100.0,
+Central_India,2016,239.16000000000003,4,4,100.0,
+Central_India,2017,334.99,4,4,100.0,
+Central_India,2018,343.4,4,4,100.0,
+Central_India,2019,468.07,3,4,75.0,Only 3/4 states reporting
+Central_India,2020,1541.56,4,4,100.0,
+Indo_Gangetic_Plain,2000,5954.05,6,6,100.0,Bihar total may include former Jharkhand territory; IGP total likely overstated
+Indo_Gangetic_Plain,2001,4023.0,6,6,100.0,
+Indo_Gangetic_Plain,2002,1655.3500000000001,6,6,100.0,
+Indo_Gangetic_Plain,2003,1812.4800000000002,6,6,100.0,
+Indo_Gangetic_Plain,2004,2401.01,6,6,100.0,
+Indo_Gangetic_Plain,2005,1040.18,5,6,83.0,Only 5/6 states reporting
+Indo_Gangetic_Plain,2006,168.68,6,6,100.0,
+Indo_Gangetic_Plain,2007,2401.9599999999996,6,6,100.0,
+Indo_Gangetic_Plain,2008,1325.6599999999999,6,6,100.0,
+Indo_Gangetic_Plain,2009,150.35,6,6,100.0,
+Indo_Gangetic_Plain,2010,407.01,6,6,100.0,
+Indo_Gangetic_Plain,2011,2496.57,6,6,100.0,
+Indo_Gangetic_Plain,2012,809.1600000000001,6,6,100.0,
+Indo_Gangetic_Plain,2013,1309.23,6,6,100.0,
+Indo_Gangetic_Plain,2014,368.74,6,6,100.0,
+Indo_Gangetic_Plain,2015,26017.73,5,6,83.0,Only 5/6 states reporting
+Indo_Gangetic_Plain,2016,1176.65,4,6,67.0,Only 4/6 states reporting
+Indo_Gangetic_Plain,2017,18072.64,5,6,83.0,Only 5/6 states reporting
+Indo_Gangetic_Plain,2018,820.54,5,6,83.0,Only 5/6 states reporting
+Indo_Gangetic_Plain,2019,2080.06,3,6,50.0,Only 3/6 states reporting
+Indo_Gangetic_Plain,2020,1413.15,4,6,67.0,Only 4/6 states reporting
+Northeast,2000,255.32000000000002,4,4,100.0,
+Northeast,2001,42.769999999999996,4,4,100.0,
+Northeast,2002,778.74,4,4,100.0,
+Northeast,2003,6377.15,4,4,100.0,
+Northeast,2004,784.4,4,4,100.0,
+Northeast,2005,549.01,4,4,100.0,
+Northeast,2006,277.49,4,4,100.0,
+Northeast,2007,338.01,4,4,100.0,
+Northeast,2008,547.3499999999999,4,4,100.0,
+Northeast,2009,744.47,4,4,100.0,
+Northeast,2010,1212.01,4,4,100.0,
+Northeast,2011,1211.3,4,4,100.0,
+Northeast,2012,4017.3199999999997,4,4,100.0,
+Northeast,2013,893.58,4,4,100.0,
+Northeast,2014,3996.0299999999997,4,4,100.0,
+Northeast,2015,2076.89,4,4,100.0,
+Northeast,2016,169.78,4,4,100.0,
+Northeast,2017,5872.450000000001,4,4,100.0,
+Northeast,2018,5341.0599999999995,4,4,100.0,
+Northeast,2019,3563.29,3,4,75.0,Only 3/4 states reporting
+Northeast,2020,3967.73,3,4,75.0,Only 3/4 states reporting
